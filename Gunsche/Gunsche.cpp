@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <iostream>
 
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc, char *argv[])
 {
 	std::cout << "Fegelein has just written this C++ program. \n";
 	std::system("pause > nul"); 
