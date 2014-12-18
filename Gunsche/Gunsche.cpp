@@ -1,5 +1,5 @@
 // Gunsche.cpp : Defines the entry point for the console application.
-//
+// Feel free to use this on your Downfall parodies, I don't care. ;)
 
 #include "stdafx.h"
 #include <cstdlib>
