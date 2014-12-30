@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
+# Not sure if needed or what. It definitely isn't when you build this on a non-Windows system.
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gunsche", "Gunsche\Gunsche.vcxproj", "{D236D148-CEE6-491B-B063-B719F51AC066}"
 EndProject
 Global
